@@ -1,0 +1,12 @@
+pour installer gradle il faut installer sdkman!
+
+pour installer sdkman! :
+	curl -s "https://get.sdkman.io" | bash
+
+	et suivre bien les instructions, notamment il y a une instruction source a recopier et a lancer
+
+pour installer mtn gradle :
+
+	sdk install gradle
+
+Tuto création projet : docs.gradle.org/current/samples/sample_building_java_applications.html
